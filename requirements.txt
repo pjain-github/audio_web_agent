@@ -1,0 +1,5 @@
+edge-tts
+asyncio
+openai-whisper
+langchain
+langchain-community
